@@ -16,7 +16,7 @@ Easily deploy and manage a WireGuard VPN server inside Docker 🐳 with dynamic 
 Get started in seconds by downloading the script with curl:
 
 ```bash
-curl -o wireguard.sh https://raw.githubusercontent.com/Dan-J-D/wireguard.sh/main/wireguard.sh
+curl -o wireguard.sh https://github.com/Dan-J-D/wireguard.sh/releases/download/1.0/wireguard.sh
 chmod +x wireguard.sh
 ```
 
