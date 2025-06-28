@@ -1,8 +1,6 @@
 # 🛡️ WireGuard Docker Setup Script
 Easily deploy and manage a WireGuard VPN server inside Docker 🐳 with dynamic public IP detection and random port assignment — all automated by a simple Bash script.
 
----
-
 ## ✨ Features
 - 🌐 Automatically detects your public IP
 - 🎲 Generates & persists a random WireGuard port (1024–65535)
